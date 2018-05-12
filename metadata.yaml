@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3757
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Palmer_%28journalist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36329#The-Old-Blood
 gutenberg_issued: '2011-06-11'
 gutenberg_type: Text
 identifiers:
